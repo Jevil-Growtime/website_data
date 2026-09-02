@@ -1,0 +1,11 @@
+{
+  "broadcast_message": "Hello from the website!",
+  "notif_message": "Hello from the website!",
+  "screenstyle": "white",
+  "screencolor": "c_white",
+  "screenfont": "fnt_main",
+  "shape": "circle",
+  "shape_x": "800",
+  "shape_y": "450",
+  "server_status": "online"
+}
