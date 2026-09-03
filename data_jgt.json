@@ -1,8 +1,8 @@
 {
-  "broadcast_message": "",
-  "notif_message": "",
+  "broadcast_message": "I'm vox",
+  "notif_message": "T R U S T  U S",
   "screenstyle": "white",
-  "screencolor": "c_purple",
+  "screencolor": "c_aqua",
   "screenfont": "fnt_main",
   "shape": "sine_wave",
   "shape_x": "800",
