@@ -1,6 +1,6 @@
 {
-  "broadcast_message": "Hello from the website!",
-  "notif_message": "0001110101010010100101!",
+  "broadcast_message": "",
+  "notif_message": "",
   "screenstyle": "white",
   "screencolor": "c_blue",
   "screenfont": "fnt_main",
