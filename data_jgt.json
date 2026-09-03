@@ -1,8 +1,8 @@
 {
   "broadcast_message": "IT'S... T V...",
-  "notif_message": "T I M E",
+  "notif_message": "Time...?",
   "screenstyle": "white",
-  "screencolor": "c_yellow",
+  "screencolor": "c_red",
   "screenfont": "fnt_main",
   "shape": "sine_wave",
   "shape_x": "800",
