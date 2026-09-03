@@ -1,10 +1,10 @@
 {
   "broadcast_message": "Hello from the website!",
-  "notif_message": "yum yum yum!!",
+  "notif_message": "0001110101010010100101!",
   "screenstyle": "white",
-  "screencolor": "c_green",
+  "screencolor": "c_purple",
   "screenfont": "fnt_main",
-  "shape": "circle",
+  "shape": "sine_wave",
   "shape_x": "800",
   "shape_y": "450",
   "shape_rad": "250",
@@ -14,7 +14,7 @@
   "shape_angle": "0",
   "Phone_vibrate": "0",
   "muss_pitch": "1",
-  "muss": "0",
+  "muss": "1",
   "power_save_protocol": "0",
   "server_status": "online"
 }
