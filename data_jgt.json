@@ -20,5 +20,6 @@
   "power_save_protocol": "0",
   "difficulty": "5",
   "additional_hp": "-100",
+  "boom_ammount": "4",
   "server_status": "online"
 }
