@@ -7,6 +7,12 @@
   "shape": "circle",
   "shape_x": "800",
   "shape_y": "450",
+  "shape_rad": "60",
+  "start_t": "0",
+  "shape_x2": "450",
+  "shape_y2": "450",
+  "shape_angle": "0",
+  "Phone_vibrate": "0",
   "muss": "0",
   "power_save_protocol": "0",
   "server_status": "online"
