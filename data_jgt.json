@@ -2,7 +2,7 @@
   "broadcast_message": "",
   "notif_message": "",
   "screenstyle": "white",
-  "screencolor": "c_purple",
+  "screencolor": "c_red",
   "screenfont": "fnt_main",
   "shape": "sine_wave",
   "shape_x": "800",
@@ -15,10 +15,10 @@
   "shape_angle": "0",
   "Phone_vibrate": "0",
   "muss_pitch": "1.05",
-  "muss": "2",
-  "room_in": "1",
+  "muss": "0",
+  "room_in": "0",
   "power_save_protocol": "0",
-  "difficulty": "4",
-  "additional_hp": "50",
+  "difficulty": "0",
+  "additional_hp": "-100",
   "server_status": "online"
 }
