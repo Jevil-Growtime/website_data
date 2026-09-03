@@ -7,5 +7,6 @@
   "shape": "circle",
   "shape_x": "800",
   "shape_y": "450",
+  "muss": "0",
   "server_status": "online"
 }
