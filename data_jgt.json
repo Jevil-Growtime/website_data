@@ -2,7 +2,7 @@
   "broadcast_message": "Hello from the website!",
   "notif_message": "0001110101010010100101!",
   "screenstyle": "white",
-  "screencolor": "c_purple",
+  "screencolor": "c_blue",
   "screenfont": "fnt_main",
   "shape": "sine_wave",
   "shape_x": "800",
@@ -14,7 +14,7 @@
   "shape_angle": "0",
   "Phone_vibrate": "0",
   "muss_pitch": "1",
-  "muss": "1",
+  "muss": "0",
   "power_save_protocol": "0",
   "server_status": "online"
 }
