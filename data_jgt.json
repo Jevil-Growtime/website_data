@@ -12,7 +12,7 @@
   "t_speed": "9",
   "shape_x2": "450",
   "shape_y2": "450",
-  "shape_angle": "0",
+  "shape_angle": "60",
   "Phone_vibrate": "0",
   "muss_pitch": "0.85",
   "muss": "5",
@@ -20,6 +20,6 @@
   "power_save_protocol": "0",
   "difficulty": "5",
   "additional_hp": "-100",
-  "boom_ammount": "4",
+  "boom_ammount": "3",
   "server_status": "online"
 }
