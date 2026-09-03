@@ -16,7 +16,7 @@
   "Phone_vibrate": "1",
   "muss_pitch": "0.85",
   "muss": "5",
-  "room_in": "0",
+  "room_in": "1",
   "power_save_protocol": "0",
   "difficulty": "5",
   "additional_hp": "-100",
