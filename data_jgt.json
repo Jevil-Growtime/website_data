@@ -13,12 +13,12 @@
   "shape_x2": "450",
   "shape_y2": "450",
   "shape_angle": "0",
-  "Phone_vibrate": "0",
-  "muss_pitch": "1.05",
-  "muss": "0",
+  "Phone_vibrate": "1",
+  "muss_pitch": "0.85",
+  "muss": "5",
   "room_in": "0",
   "power_save_protocol": "0",
-  "difficulty": "0",
+  "difficulty": "5",
   "additional_hp": "-100",
   "server_status": "online"
 }
