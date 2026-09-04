@@ -2,7 +2,7 @@
   "broadcast_message": "",
   "notif_message": "",
   "screenstyle": "blue",
-  "screencolor": "c_white",
+  "screencolor": "c_red",
   "screenfont": "fnt_main",
   "shape": "circle",
   "shape_x": "800",
