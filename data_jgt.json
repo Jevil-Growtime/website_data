@@ -1,8 +1,8 @@
 {
-  "broadcast_message": "",
-  "notif_message": "",
+  "broadcast_message": "Hello! Hello!",
+  "notif_message": "Welcome in :3",
   "screenstyle": "white",
-  "screencolor": "c_purple",
+  "screencolor": "c_aqua",
   "screenfont": "fnt_main",
   "shape": "sine_wave",
   "shape_x": "800",
