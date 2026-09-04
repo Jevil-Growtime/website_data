@@ -2,7 +2,7 @@
   "broadcast_message": "Hello! Hello! Welcome in :D",
   "notif_message": "",
   "screenstyle": "white",
-  "screencolor": "c_red",
+  "screencolor": "c_purple",
   "screenfont": "fnt_main",
   "shape": "sine_wave",
   "shape_x": "800",
