@@ -1,8 +1,8 @@
 {
   "broadcast_message": "V O X V O X V O X",
   "notif_message": "D E I D E I D E I",
-  "screenstyle": "white",
-  "screencolor": "c_red",
+  "screenstyle": "blue",
+  "screencolor": "c_yellow",
   "screenfont": "fnt_main",
   "shape": "sine_wave",
   "shape_x": "800",
