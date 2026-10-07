@@ -1,10 +1,10 @@
 {
-  "broadcast_message": "HEYYYYYYY",
+  "broadcast_message": "0",
   "notif_message": "HEYYYYYYY :D",
   "screenstyle": "blue",
   "screencolor": "c_fuchsia",
   "screenfont": "fnt_main",
-  "shape": "sine_wave",
+  "shape": "skibidi",
   "shape_x": "800",
   "shape_y": "450",
   "shape_rad": "60",
