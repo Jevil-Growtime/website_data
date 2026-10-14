@@ -1,10 +1,10 @@
 {
   "broadcast_message": "",
-  "notif_message": "Fx",
+  "notif_message": "Oh oui oui oui oui",
   "screenstyle": "blue",
   "screencolor": "c_red",
   "screenfont": "fnt_main",
-  "shape": "skibidi",
+  "shape": "sine_wave",
   "shape_x": "800",
   "shape_y": "450",
   "shape_rad": "60",
