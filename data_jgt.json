@@ -2,7 +2,7 @@
   "broadcast_message": "",
   "notif_message": "",
   "screenstyle": "blue",
-  "screencolor": "c_blue",
+  "screencolor": "c_white",
   "screenfont": "fnt_main",
   "shape": "",
   "shape_x": "800",
@@ -21,8 +21,8 @@
   "difficulty": "4",
   "additional_hp": "100",
   "boom_ammount": "1",
-  "pricing_1": "100",
-  "pricing_2": "100",
+  "pricing_1": "400",
+  "pricing_2": "400",
   "initial_money": "0",
   "server_status": "online"
 }
