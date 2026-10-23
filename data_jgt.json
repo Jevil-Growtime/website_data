@@ -2,7 +2,7 @@
   "broadcast_message": "cos( Alpha * pi/180 )",
   "notif_message": "exponentielle lineaire logharighm",
   "screenstyle": "blue",
-  "screencolor": "c_aqua",
+  "screencolor": "c_blue",
   "screenfont": "fnt_main",
   "shape": "rectangle",
   "shape_x": "800",
