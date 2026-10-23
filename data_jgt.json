@@ -6,7 +6,7 @@
   "screenfont": "fnt_main",
   "shape": "sine_wave",
   "shape_x": "800",
-  "shape_y": "450",
+  "shape_y": "850",
   "shape_rad": "60",
   "start_t": "2",
   "t_speed": "0",
