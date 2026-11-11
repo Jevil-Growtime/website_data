@@ -1,10 +1,10 @@
 {
-  "broadcast_message": "",
+  "broadcast_message": "Kikou is so hot",
   "notif_message": "",
   "screenstyle": "blue",
-  "screencolor": "c_white",
+  "screencolor": "c_red",
   "screenfont": "fnt_main",
-  "shape": "",
+  "shape": "sine_wave",
   "shape_x": "800",
   "shape_y": "850",
   "shape_rad": "60",
